@@ -1,0 +1,703 @@
+[
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PROBLEMATIKA DISKRIMINASI",
+    "displayTitle": "PROBLEMATIKA DISKRIMINASI",
+    "body": "<p>Apa itu Diskriminasi?&nbsp;Diskriminasi adalah setiap tindakan yang melakukan pembedaan terhadap seseorang atau sekelompok orang berdasarkan&nbsp;agama, ras, suku, etnis, kelompok, golongan, status, dan kelas sosial-ekonomi, jenis kelamin, kondisi fisik tubuh, usia, orientasi seksual, pandangan ideologi dan politik, serta batas negara dan kebangsaan seseorang.</p>",
+    "_id": "5f3a7565a9f8102c788e4a96",
+    "_parentId": "5f3a7565a9f8102c788e4a87",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Dalam demokrasi, diskriminasi seharusnya telah ditiadakan dengan adanya kesetaraan dalam bidang hukum, kesederajatan dalam perlakuan adalah salah satu wujud ideal dalam kehidupan negara yang demokratis. Akan tetapi, berbagai penelitian dan pengkajian menunjukkan bahwa kondisi Indonesia saat ini belum mencerminkan penerapan asas persamaan di muka umum secara utuh.</p>",
+    "_id": "5f3a7565a9f8102c788e4a99",
+    "_parentId": "5f3a7565a9f8102c788e4a89",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blinds",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FAKTOR PENYEBAB DISKRIMINASI ",
+    "displayTitle": "FAKTOR PENYEBAB DISKRIMINASI ",
+    "body": "",
+    "_id": "5f3a7565a9f8102c788e4a9a",
+    "_parentId": "5f3a7565a9f8102c788e4a8b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "height": 500,
+    "_expandBy": 2,
+    "_items": [
+      {
+        "src": "course/en/assets/fb1bd9dfc2d058efaf2b6ff7f89fbff249e00d65.jpg",
+        "_captions": [
+          {
+            "text": "Persaingan yang semakin ketat dalam berbagai bidang kehidupan, terutama ekonomi.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/860406fc9e04c7afb362c9e29c3821165c945bf7.jpg",
+        "_captions": [
+          {
+            "text": "Adanya tekanan dan intimidasi oleh kelompok dominan terhadap kelompok lemah.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      },
+      {
+        "src": "course/en/assets/804c8595d0846d5fe957abca2a0ff38788b97105.jpg",
+        "_captions": [
+          {
+            "text": "Ketidakberdayaan golongan lemah akan intimidasi membuat mereka terus terpuruk dan menjadi korban diskriminasi.",
+            "top": "",
+            "left": "",
+            "width": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "KILAS BALIK",
+    "displayTitle": "KILAS BALIK",
+    "body": "<p>Apakah kamu masih ingat dengan materi yang sebelumnya? Mari kita lakukan tes kecil mengenai manusia, keragaman, dan kesetaraan.</p>",
+    "_id": "5f3a7710a9f8102c788e4acb",
+    "_parentId": "5f3a76e3a9f8102c788e4aca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Pilihlah jawaban dengan benar atau salah.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Pilihlah opsi kamu",
+    "_items": [
+      {
+        "text": "Keragaman adalah suatu kondisi dalam masyarakat dimana terdapat perbedaan-perbedaan dalam berbagai bidang terutama suku bangsa, ras, agama, ideologi, budaya.",
+        "_options": [
+          {
+            "text": "Benar",
+            "_isCorrect": true
+          },
+          {
+            "text": "Salah",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Sifat dasar masyarakat majemuk menurut Pierre L. van den Berghe diantaranya adalah terjadinya segmentasi ke dalam bentuk kelompok-kelompok yang memiliki subkebudayaan yang berbeda.",
+        "_options": [
+          {
+            "text": "Benar",
+            "_isCorrect": true
+          },
+          {
+            "text": "Salah",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Kesederajatan adalah persamaan harkat, nilai, harga, taraf yang membedakan makluk yang satu dengan yang lainnya dengan ketentuan tertentu.",
+        "_options": [
+          {
+            "text": "Benar",
+            "_isCorrect": false
+          },
+          {
+            "text": "Salah",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Ingatan Kamu",
+      "correct": "<p>Bagus! Jawaban kamu tepat.&nbsp;Keragaman adalah suatu kondisi dalam masyarakat dimana terdapat perbedaan-perbedaan dalam berbagai bidang terutama suku bangsa, ras, agama, ideologi, budaya.&nbsp;Sifat dasar masyarakat majemuk menurut Pierre L. van den Berghe diantaranya adalah terjadinya segmentasi ke dalam bentuk kelompok-kelompok yang memiliki subkebudayaan yang berbeda.&nbsp;Kesederajatan adalah persamaan harkat, nilai, harga, taraf yang membedakan makluk yang satu dengan yang lainnya tanpa adanya ketentuan tertentu.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Bagus! Jawaban kamu masih kurang tepat.&nbsp;Keragaman adalah suatu kondisi dalam masyarakat dimana terdapat perbedaan-perbedaan dalam berbagai bidang terutama suku bangsa, ras, agama, ideologi, budaya.&nbsp;Sifat dasar masyarakat majemuk menurut Pierre L. van den Berghe diantaranya adalah terjadinya segmentasi ke dalam bentuk kelompok-kelompok yang memiliki subkebudayaan yang berbeda.&nbsp;Kesederajatan adalah persamaan harkat, nilai, harga, taraf yang membedakan makluk yang satu dengan yang lainnya tanpa adanya ketentuan tertentu.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Bagus! Jawaban kamu sebagian sudah tepat.&nbsp;Keragaman adalah suatu kondisi dalam masyarakat dimana terdapat perbedaan-perbedaan dalam berbagai bidang terutama suku bangsa, ras, agama, ideologi, budaya.&nbsp;Sifat dasar masyarakat majemuk menurut Pierre L. van den Berghe diantaranya adalah terjadinya segmentasi ke dalam bentuk kelompok-kelompok yang memiliki subkebudayaan yang berbeda.&nbsp;Kesederajatan adalah persamaan harkat, nilai, harga, taraf yang membedakan makluk yang satu dengan yang lainnya tanpa adanya ketentuan tertentu.&nbsp;</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "SIFAT DASAR YANG DIMILIKI OLEH MASYARAKAT MAJEMUK",
+    "displayTitle": "SIFAT DASAR YANG DIMILIKI OLEH MASYARAKAT MAJEMUK",
+    "body": "<p>Sifat dasar yang dimiliki oleh masyarakat majemuk menurut Van De Berghe adalah</p><ol><li><p>Terjadinya segmentasi ke dalam kelompok-kelompok yang sering kali memiliki kebudayaan yang berbeda.</p></li><li><p>Memiliki struktur sosial yang terbagi-bagi ke dalam lembaga-lembaga yang bersifat non-komplementer.</p></li><li><p>Kurang mengembangkan konsensus di antara para anggota masyarakat tentang nilai-nilai sosial yang bersifat dasar.</p></li><li><p>Secara relatif sering kali terjadi konflik diantara kelompok yang satu dengan kelompok yang lainnya.</p></li><li><p>Secara relatif integrasi sosial tumbuh di atas paksaan dan saling ketergantungan di dalam bidang ekonomi.</p></li><li><p>Adanya dominasi politik oleh suatu kelompok terhadap kelompok lain.</p></li></ol>",
+    "_id": "5f3a7c24a9f8102c788e4acd",
+    "_parentId": "5f3a7565a9f8102c788e4a84",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Permasalahan yang dapat Menggoyahkan Persatuan",
+    "displayTitle": "",
+    "body": "<p>Permasalahan yang dapat menggoyahkan persatuan adalah.</p>",
+    "_id": "5f3a7ceda9f8102c788e4ace",
+    "_parentId": "5f3a7565a9f8102c788e4a85",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Disharmonisasi</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Diskriminatif</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Eksklusivisme</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Primodialisme</p>",
+        "next": "Dan"
+      },
+      {
+        "body": "<p>Stereotip Etnik</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk mulai",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Hal-hal yang dapat Mengurangi  Pengaruh Negatif Keragaman",
+    "displayTitle": "",
+    "body": "<p>Hal-hal yang dapat mengurangi pengaruh negatif keragaman adalah sebagai berikut.</p><ol><li>Semangat Religius</li><li>Semangat Nasionalisme</li><li>Semangat Pluralisme</li><li>Semangat humanisme</li><li>Dialog antar umat beragama</li></ol>",
+    "_id": "5f3a7f47a9f8102c788e4acf",
+    "_parentId": "5f3a7565a9f8102c788e4a86",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Landasan Hukum Non-Diskriminasi Di Indonesia",
+    "displayTitle": "Landasan Hukum Non-Diskriminasi Di Indonesia",
+    "body": "",
+    "_id": "5f3a808fa9f8102c788e4ad0",
+    "_parentId": "5f3a7565a9f8102c788e4a88",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_tabLayout": "left",
+    "_items": [
+      {
+        "tabTitle": "UUD 1945",
+        "title": "Pasal 28I Ayat 2 UUD Tahun 1945",
+        "body": "<p>Setiap orang berhak bebas dari perlakuan yang bersifat diskriminatif atas dasar apa pun dan berhak mendapatkan perlindungan terhadap perlakuan yang bersifat diskriminatif itu.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "UU",
+        "title": "Pasal 3 UU No. 30 Tahun 1999 tentang HAM ",
+        "body": "<p>.....setiap orang dilahirkan bebas dengan harkat dan martabat yang sama dan sederajat....</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MASALAH YANG TIMBUL AKIBAT DISKRIMINASI",
+    "displayTitle": "MASALAH YANG TIMBUL AKIBAT DISKRIMINASI",
+    "body": "",
+    "_id": "5f3a82d6a9f8102c788e4ad1",
+    "_parentId": "5f3a7565a9f8102c788e4a8c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Adanya ketidaksetaraan dalam berbagai bidang</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Adanya ketidaksederajatan dalam berbagai bidang.</p>",
+        "next": "Mengakibatkan"
+      },
+      {
+        "body": "<p>Disintegrasi Bangsa</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk melihat",
+      "continueText": "Dan"
+    }
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FAKTOR PENYEBAB DISINTEGRASI BANGSA",
+    "displayTitle": "FAKTOR PENYEBAB DISINTEGRASI BANGSA",
+    "body": "",
+    "_id": "5f3a8363a9f8102c788e4ad2",
+    "_parentId": "5f3a7565a9f8102c788e4a8d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_columns": 5,
+    "_animationType": "slideDown",
+    "_items": [
+      {
+        "front": "Pertama",
+        "back": {
+          "title": "",
+          "body": "<p>Kegagalan kepemimpinan</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Kedua",
+        "back": {
+          "title": "",
+          "body": "<p>Krisis politik</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Ketiga",
+        "back": {
+          "title": "",
+          "body": "<p>Krisis ekonomi yang akut dan berlangsung lama</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Keempat",
+        "back": {
+          "title": "",
+          "body": "<p>Krisis sosial</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Kelima",
+        "back": {
+          "title": "",
+          "body": "<p>Demoralisasi Tentara dan Polisi</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "SOLUSI DARI INTEGRASI",
+    "displayTitle": "SOLUSI DARI INTEGRASI",
+    "body": "",
+    "_id": "5f3b79552f0aa32010328d06",
+    "_parentId": "5f3a7565a9f8102c788e4a8e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Bhineka Tunggal Ika</p>",
+        "next": "Maka akan"
+      },
+      {
+        "body": "<p>Menyatukan masyarakat Indonesia yang majemuk dan heterogen (latar belakang kebudayaan, agama, sejarah) menuju tujuan yang sama.</p>",
+        "next": "Lalu dengan"
+      },
+      {
+        "body": "<p>Kebudayaan Nasional</p>",
+        "next": "Dan"
+      },
+      {
+        "body": "<p>Integrasi kebudayaan dan&nbsp;Integrasi Nasional</p>",
+        "next": "Menjadikan"
+      },
+      {
+        "body": "<p>Persatuan</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk mulai",
+      "continueText": "Next"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "MANUSIA BERADAB DALAM KERAGAMAN",
+    "displayTitle": "MANUSIA BERADAB DALAM KERAGAMAN",
+    "body": "",
+    "_id": "5f3b7a892f0aa32010328d07",
+    "_parentId": "5f3a7565a9f8102c788e4a8f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Teori Hubungan Masyarakat",
+        "_ariaLevel": 0,
+        "body": "<p>Teori ini memiliki pandangan bahwa konflik yang sering muncul ditengah masyarakat disebabkan polarisasi yang terus terjadi, ketidakpercayaan dan permusuhan diantara kelompok yang berbeda, perbedaan bisa dilatarbelakangi sara bahkan pilihan ideologi politiknya.</p>",
+        "_graphic": {
+          "src": "course/en/assets/fd9b45f820e9b4d4bcdc088d6e699bc1bc96cde4.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Teori Hubungan Masyarakat"
+      },
+      {
+        "title": "Teori Identitas",
+        "_ariaLevel": 0,
+        "body": "<p>Teori ini melihat bahwa konflik yang mengeras di masyarakat tidak lain disebabkan identitas yang terancam yang sering berakar pada hilangnya sesuatu atau penderitaan masa lalu yang tidak terselesaikan.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ffb9cc594360c447b6d63e858e547e7bbb371f5d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Teori Identitas"
+      },
+      {
+        "title": "Teori Kesalah Pahaman Antar Budaya",
+        "_ariaLevel": 0,
+        "body": "<p>Teori ini melihat konflik disebabkan ketidakcocokan dalam cara-cara berkomunikasi diantara budaya yang berbeda.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a784af689c982c1f9c84d4d697a20faf22808e60.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Teori Kesalah Pahaman Antar Budaya"
+      },
+      {
+        "title": "Teori Transformasi ",
+        "_ariaLevel": 0,
+        "body": "<p>Teori ini yang memfokuskan pada penyebab terjadi konflik adalah ketidaksetaraan dan ketidakadilan yang muncul sebagai masalah sosial budaya dan ekonomi.</p>",
+        "_graphic": {
+          "src": "course/en/assets/c1d521174718a5f72517a1854bf6b82ce8d9f345.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Teori Transformasi "
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FAKTOR PENYEBAB TERJADINYA PERUBAHAN SOSIAL",
+    "displayTitle": "FAKTOR PENYEBAB TERJADINYA PERUBAHAN SOSIAL",
+    "body": "",
+    "_id": "5f3b7ae92f0aa32010328d08",
+    "_parentId": "5f3a7565a9f8102c788e4a90",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Faktor Dari Dalam",
+        "body": "<ul><li>Dinamika Penduduk</li><li>Penemuan yang berkembang di Masyarakat</li><li>Munculnya konflik</li><li>Terjadinya Revolusi</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Faktor Dari Luar",
+        "body": "<ul><li>Akulturasi</li><li>Difusi</li><li>Penetrasi</li><li>Invasi</li><li>Asimilasi</li><li>Hibridisasi</li><li>Milenarisasi</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]
